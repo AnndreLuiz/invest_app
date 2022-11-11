@@ -55,7 +55,7 @@ class _HomePageState extends State<HomePage> {
                   Row(
                     children: [
                       Text(
-                        'Investido mensal',
+                        'Investimento mensal',
                         style: _textStyle,
                       ),
                       Spacer(),
