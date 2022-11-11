@@ -1,16 +1,3 @@
-# teste_aula
+App de juros compostos
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Captura de Tela (3)](https://user-images.githubusercontent.com/108832512/196262987-2705b800-d130-4e7e-8468-6e305b31aacd.png)
